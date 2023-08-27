@@ -1,2 +1,2 @@
 # bad-connect4
-This is horrible
+I'm sorry
