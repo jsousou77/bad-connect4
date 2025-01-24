@@ -21,7 +21,7 @@ public class Connect4 {
     window.setResizable(false);
     window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     window.setSize(800, 600);
-    window.setTitle("Shitty Connect 4: Now with winner detection!");
+    window.setTitle("Bad Connect 4: Now with winner detection!");
     window.setBackground(Color.white);
     
     for (int x = 0; x < 7; x++) {
