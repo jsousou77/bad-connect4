@@ -1,2 +1,2 @@
 # bad-connect4
-I'm sorry
+Bad (but functional!) implementation of Connect 4 using Swing
